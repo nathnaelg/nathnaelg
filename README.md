@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gulelaat
+- 👋 Hi, I’m @NATNAEL
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning Software Engineering
 
