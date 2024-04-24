@@ -50,6 +50,9 @@ I am a Software Enginner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulelaat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=gulelaat&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> -->
