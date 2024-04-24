@@ -51,23 +51,13 @@ I am a Software Enginner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 <!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> -->
-<!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I am a Full Stack Developer from Ethiopia.
+<!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I am a Software Engineer from Ethiopia.
 
  -->
 <!-- 
-<img src="https://komarev.com/ghpvc/?username=ALPHACOD3RS&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=gulelaat&style=flat-square&color=blue" alt=""/>
  -->
 
-<!-- **ALPHACOD3RS/ALPHACOD3RS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
- -->
-<!-- - 🔭 I’m currently working on Full Stack Android Development
-- 🌱 I’m currently learning ML,AI
-- 👯 I’m looking to collaborate on Flutter, Python, Laravel...
-- 💬 Ask me about anything
-- 📫 How to reach me: LinkedIn, Twitter -->
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact:  -->
-<!-- - 🤔 I’m looking for help with ... -->
+
 
