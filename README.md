@@ -26,7 +26,7 @@ I am a Software Enginner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - 🌱 I’m currently learning DL
 - 👯 I’m looking to collaborate on any Machine learing project
 - 💬 Ask me about anything
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-NaolKetema-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natnael-g/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Natnael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natnael-g/)
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
