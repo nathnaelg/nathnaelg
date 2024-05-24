@@ -1,34 +1,55 @@
-<!-- ### Hi there 👋 -->
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<a href="https://komarev.com/ghpvc/?username=gulelaat">
+  <img align="right" src="https://komarev.com/ghpvc/?username=gulelaat&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
 
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/natnael-g/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  
-  <a href="https://twitter.com/elnathan00">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-<h1 align="center">
-  Hey there
-  Welcome
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+[![wakatime](https://wakatime.com/badge/user/cc882208-c983-46cb-b4f5-ed20bb5c6e07.svg)](https://wakatime.com/@cc882208-c983-46cb-b4f5-ed20bb5c6e07)
 
-### :man_technologist: About Me :
-I am a Software Enginner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
-- 🔭 I’m currently working on AI/Ml
-- 🌱 I’m currently learning DL
-- 👯 I’m looking to collaborate on any Machine learing project
-- 💬 Ask me about anything
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Natnael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natnael-g/)
 
-### :hammer_and_wrench: Languages and Tools :
+
+
+<h1 align="center">Hi 👋, I'm Natnael</h1>
+<h3 align="center">A passionate AI/ML Engineer from Ethiopia</h3>
+
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/natnael-g" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="harunjeylan"/>
+ </a>
+ <a href="https://x.com/elnathan00" target="_blank">
+  <img src="https://img.shields.io/badge/x-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
+ </a> 
+</p>
+<br />
+
+<img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+
+<br />
+
+- 👋 Hi, I’m Natnael
+- 👀 I’m interested in **Computer vision and Natural language processing.**
+- 🔭 I’m currently working on **AI/ML**
+- 🌱 I’m currently learning **Deep Learning**
+- 📫 How to reach me **[![Linkedin Badge](https://img.shields.io/badge/-Natnael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natnael-g/)**
+
+<br />
+<H2>About</H2>
+<p>My name is Natnael and I am proud of who I am. Every day I strive to be kind, honest, and true to myself. I believe in the power of hard work and making dreams into reality. It is important for me to keep pushing forward and taking on life with resilience, no matter what comes my way. Success doesn't come without challenge but I have faith that if I stay determined and confident, anything can be achieved!</p>
+
+<ul>
+  <li>
+    ➡️ How to connect with me?
+  </li>
+    <li>
+      🗨️ +251984688918
+  </li>
+    <li>
+      ✉️ gitmanati222@gmail.com
+  </li>
+  </ul>
+
+### Main Languages and Tools:
 <div>
    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="jupyter" **alt="jupyter" width="40" height="40"/>
@@ -40,27 +61,29 @@ I am a Software Enginner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
+<br/>
+
+
+<p align="center">
+  <a href="https://github.com/gulelaat">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulelaat&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/gulelaat">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gulelaat&theme=radical" alt="Natnael GitHub Contribution"/>
+  </a>
+</p>
 
 <a> 
-    <a href="https://github.com/gulelaat"><img alt="Natnael Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=gulelaat&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
- </a>
+    <a href="https://github.com/gulelaat"><img alt="natnael Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=gulelaat&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/alsiam"><img alt="Natnael Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gulelaat&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gulelaat&theme=dark&background=000000)](https://git.io/streak-stats)
+![NAtnael Graph](https://github-readme-activity-graph.vercel.app/graph?username=gulelaat&custom_title=NAtnael%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulelaat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<!-- <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div> -->
-<!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">I am a Software Engineer from Ethiopia.
-
- -->
-<!-- 
-<img src="https://komarev.com/ghpvc/?username=gulelaat&style=flat-square&color=blue" alt=""/>
- -->
 
 
 
