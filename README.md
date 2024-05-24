@@ -42,6 +42,10 @@ I am a Software Enginner <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 
 ### :fire: My Stats :
 
+<a> 
+    <a href="https://github.com/gulelaat"><img alt="Natnael Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=gulelaat&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+ </a>
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gulelaat&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gulelaat&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
