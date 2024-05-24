@@ -52,6 +52,7 @@
 ### Main Languages and Tools:
 ![Jupyter](https://img.shields.io/badge/Jupyter-FFFFFF?style=for-the-badge&logo=jupyter&logoColor=)
 ![Pandas](https://img.shields.io/badge/Pandas-000066?style=for-the-badge&logo=pandas&logoColor=)
+![Pytorch](https://img.shields.io/badge/pytorch-E0E0E0?style=for-the-badge&logo=pytorch&logoColor=)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
