@@ -66,23 +66,23 @@
 
 <p align="center">
   <a href="https://github.com/gulelaat">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulelaat&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulelaat&theme=radical&border=7F3FBF&background=0D1117" alt="Natnael's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/gulelaat">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gulelaat&theme=radical" alt="Natnael GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gulelaat&theme=radical" alt="Natnael's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/gulelaat"><img alt="natnael Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=gulelaat&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://git.io/streak-stats"><img alt="Natnael Github Stats" src="https://github-readme-streak-stats.herokuapp.com?user=gulelaat&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/alsiam"><img alt="Natnael Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gulelaat&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-![NAtnael Graph](https://github-readme-activity-graph.vercel.app/graph?username=gulelaat&custom_title=NAtnael%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Natnael Graph](https://github-readme-activity-graph.vercel.app/graph?username=gulelaat&custom_title=NAtnael%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 
 
