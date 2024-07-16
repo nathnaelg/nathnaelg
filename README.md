@@ -1,5 +1,5 @@
 
-<a href="https://komarev.com/ghpvc/?username=gulelaat">
+<a href="https://komarev.com/ghpvc/?username=nathnaelg">
   <img align="right" src="https://komarev.com/ghpvc/?username=gulelaat&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
@@ -69,22 +69,22 @@
 
 
 <p align="center">
-  <a href="https://github.com/gulelaat">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gulelaat&theme=radical&border=7F3FBF&background=0D1117" alt="Natnael's GitHub streak"/>
+  <a href="https://github.com/nathnaelg">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathnaelg&theme=radical&border=7F3FBF&background=0D1117" alt="Natnael's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/gulelaat">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gulelaat&theme=radical" alt="Natnael's GitHub Contribution"/>
+  <a href="https://github.com/nathnaelg">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nathnaelg&theme=radical" alt="Natnael's GitHub Contribution"/>
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/gulelaat"><img alt="Natnael Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=gulelaat&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/nathnaelg"><img alt="Natnael Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nathnaelg&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-![Natnael Graph](https://github-readme-activity-graph.vercel.app/graph?username=gulelaat&custom_title=Natnael%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Natnael Graph](https://github-readme-activity-graph.vercel.app/graph?username=nathnaelg&custom_title=Natnael%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 </p>
 
