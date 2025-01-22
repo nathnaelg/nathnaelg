@@ -10,7 +10,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Natnael</h1>
-<h3 align="center">A passionate AI/ML Engineer from Ethiopia</h3>
+<h3 align="center">A passionate Mobile App Developer from Ethiopia</h3>
 
 
 <p align="center">
@@ -28,9 +28,9 @@
 <br />
 
 - 👋 Hi, I’m Natnael
-- 👀 I’m interested in **Computer vision and Natural language processing.**
-- 🔭 I’m currently working on **AI/ML**
-- 🌱 I’m currently learning **Deep Learning**
+- 👀 I’m interested in **Mobile App Development.**
+- 🔭 I’m currently working on **Mobile App and Backend Developemnt**
+- 🌱 I’m currently learning **AR**
 - 📫 How to reach me **[![Linkedin Badge](https://img.shields.io/badge/-Natnael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natnael-g/)**
 
 <br />
