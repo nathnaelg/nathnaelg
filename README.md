@@ -10,7 +10,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Natnael</h1>
-<h3 align="center">A passionate Mobile App Developer from Ethiopia</h3>
+<h3 align="center">A passionate Software Engineer from Ethiopia</h3>
 
 
 <p align="center">
@@ -28,7 +28,7 @@
 <br />
 
 - 👋 Hi, I’m Natnael
-- 👀 I’m interested in **Mobile App Development.**
+- 👀 I’m interested in **Software Development.**
 - 🔭 I’m currently working on **Mobile App and Backend Developemnt**
 - 🌱 I’m currently learning **AR**
 - 📫 How to reach me **[![Linkedin Badge](https://img.shields.io/badge/-Natnael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/natnael-g/)**
@@ -45,7 +45,7 @@
       🗨️ +251984688918
   </li>
     <li>
-      ✉️ gitmanati222@gmail.com
+      ✉️ natk3y0@gmail.com
   </li>
   </ul>
 
@@ -53,6 +53,10 @@
 ![Flutter](https://img.shields.io/badge/flutter-20232A?style=for-the-badge&logo=flutter&logoColor=61DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/python-E0E0E0?style=for-the-badge&logo=python&logoColor=)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -64,6 +68,7 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
 
 
 <br/>
